@@ -1,0 +1,28 @@
+PODS:
+  - background_locator_2 (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - "location_permissions (3.0.0+1)":
+    - Flutter
+
+DEPENDENCIES:
+  - background_locator_2 (from `.symlinks/plugins/background_locator_2/ios`)
+  - Flutter (from `Flutter`)
+  - location_permissions (from `.symlinks/plugins/location_permissions/ios`)
+
+EXTERNAL SOURCES:
+  background_locator_2:
+    :path: ".symlinks/plugins/background_locator_2/ios"
+  Flutter:
+    :path: Flutter
+  location_permissions:
+    :path: ".symlinks/plugins/location_permissions/ios"
+
+SPEC CHECKSUMS:
+  background_locator_2: bee147151ed151802ee8f1cc02f55ee14f77a2e3
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  location_permissions: bd17235223ff957bed8894f9edbb75005d6761ab
+
+PODFILE CHECKSUM: 4305caec6b40dde0ae97be1573c53de1882a07e5
+
+COCOAPODS: 1.16.2
